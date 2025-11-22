@@ -1,0 +1,5 @@
+{
+  "name": "3D OmniView",
+  "description": "A professional online 3D model viewer supporting OBJ, FBX, STL, and GLTF formats with real-time rendering and customization.",
+  "requestFramePermissions": []
+}
